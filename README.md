@@ -1,11 +1,11 @@
 # Combat
 A combat style game, written in C++
 
-> # How to compile:
+> ## How to compile:
 > skhkhf
 
-> # How to run:
+> ## How to run:
 > khfdkhf
 
-> # What I learned:
+> ## What I learned:
 > skjkdf
