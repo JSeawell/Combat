@@ -1,5 +1,6 @@
 # Combat
 > CS-162 (Intro to CS II) Program  
+
 A combat style game, written in C++
 
 ## How to compile and run:
