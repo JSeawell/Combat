@@ -1,7 +1,7 @@
 # Combat
 > ## CS-162 (Intro to CS II) Program  
 
-A combat style game, written in C++
+A fantasy combat style game, written in C++
 
 ## How the game is played:
 > Each round:
