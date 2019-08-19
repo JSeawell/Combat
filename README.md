@@ -8,6 +8,7 @@ A fantasy combat style game, written in C++
 > > - Players 1 and 2 each select a character
 > > - Player 1 attacks, while Player 2 defends.
 > > - If still alive, Player 2 attacks, and Player 1 defends.  
+
 > This process repeats until a player dies, and the other player wins
 
 ## How to compile and run:
