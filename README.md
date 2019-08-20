@@ -18,5 +18,5 @@ A fantasy combat style game, written in C++
 > 4. Type `1` and press `Enter` to play
 > 5. Follow the game set-up instructions, and begin
 
-## Tech or concepts learned/used:
+## Tech and/or concepts learned/used:
 > skjkdf
