@@ -19,4 +19,8 @@ A fantasy combat style game, written in C++
 > 5. Follow the game set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> skjkdf
+> - C++
+> - Polymorphism
+> - Inheritance
+> - Recursion
+> - Virtual functions
